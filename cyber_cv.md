@@ -121,5 +121,3 @@ Extensive knowledge of **Windows, macOS, and Linux** environments, coupled with 
 Available upon request.
 
 ---
-
-🔥 _This stylish and structured Markdown CV is optimised for PDF conversion with enhanced readability and professionalism. Let me know if you need any modifications!_ 🚀
