@@ -73,7 +73,7 @@ Extensive knowledge of **Windows, macOS, and Linux** environments, coupled with 
 
 ## **🎓 Education & Certifications**
 
-### **🎓 Bachelor of Science (BSc) in Computer Science**
+### **⚛️ Bachelor of Science (BSc) in Computer Science**
 
 **Liverpool Hope University** | _2018 – 2021_  
 🏆 **First-Class Honours** | Specialised in **Cyber Security, Networking, Ethical Hacking**  
