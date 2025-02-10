@@ -1,32 +1,32 @@
+---
 # **Richard Waters**
-
-**Cyber Security Specialist & Penetration Tester**  
-Liverpool, L4 6TZ  
-📧 richardwaters866@gmail.com
-💻 [GitHub](https://github.com/richardwaters9049)
+**Cyber Security Professional**  
+📍 Liverpool, L4 6TZ  
+📧 [richardwaters866@gmail.com](mailto:richardwaters866@gmail.com) | 📞 +44 7922 288176  
+🐙 [GitHub](https://github.com/richardwaters9049)  
 
 ---
 
-## **🔹 Professional Summary**
+## **👨‍💻 Professional Summary**
 
-A highly skilled and passionate **Cyber Security Specialist** with a **First-Class Honours** degree in Computer Science and over **10 years of programming experience**. Expertise in **penetration testing, network security, and ethical hacking**, with hands-on experience using **Burp Suite, Nmap, Metasploit, and John the Ripper**. Adept at **threat modelling, incident response, and digital forensics** across **Windows, macOS, and Linux** environments.
+Experienced and highly skilled **Cyber Security Professional** with a **First-Class Honours degree** in Computer Science and over **10 years of coding experience**. Proficient in **penetration testing, ethical hacking, and network security**, with expertise in tools like **Burp Suite, Nmap, John the Ripper, and Metasploit**.
 
-Proven ability to secure systems, perform **vulnerability assessments**, and **mitigate cyber threats** through automation and advanced security strategies. Committed to continuous learning and staying ahead of **emerging cybersecurity threats** and industry best practices.
+Extensive knowledge of **Windows, macOS, and Linux** environments, coupled with strong **programming and scripting** abilities. Adept at identifying vulnerabilities, securing systems, and implementing robust security measures to **protect organisations from cyber threats**. Passionate about staying ahead of emerging security risks and best practices.
 
 ---
 
 ## **🛠 Core Skills & Competencies**
 
-✅ **Penetration Testing & Ethical Hacking** – Web, network, and cloud security assessments  
-✅ **Security Tools** – Burp Suite, Nmap, Wireshark, Metasploit, John the Ripper, Nessus  
-✅ **Operating Systems** – Windows, macOS, Linux (Debian, Kali, Ubuntu)  
-✅ **Network Security** – Firewalls, IDS/IPS, VPNs, and network monitoring  
-✅ **Programming & Scripting** – Python, Bash, Java, Go, JavaScript, C++, Rust  
-✅ **Cloud Security** – AWS, Azure, Google Cloud, IAM, security policies  
-✅ **Incident Response & Digital Forensics** – Security investigations, SIEM, threat analysis  
-✅ **Security Compliance & Risk Assessment** – GDPR, ISO 27001, NIST frameworks  
-✅ **DevSecOps & Automation** – Secure CI/CD pipelines, Terraform, Kubernetes, Ansible  
-✅ **Capture the Flag (CTF) Competitions** – Active participant in cybersecurity challenges
+✅ **Penetration Testing & Ethical Hacking** – Conducting vulnerability assessments and security audits.  
+✅ **Security Tools** – Proficient in **Burp Suite, Nmap, Wireshark, Metasploit, John the Ripper, Nessus**.  
+✅ **Operating Systems** – Expert in **Windows, macOS, Linux** environments.  
+✅ **Network Security & Monitoring** – Securing and monitoring networks to prevent cyber threats.  
+✅ **Programming & Scripting** – Python, Bash, Java, Go, JavaScript, C++, Rust for security automation.  
+✅ **Cloud Security** – Experience with **AWS, Azure, Google Cloud** security practices.  
+✅ **Incident Response & Digital Forensics** – Investigating cyber threats and security breaches.  
+✅ **Regulatory Compliance** – Knowledge of **ISO 27001, GDPR**, and risk assessments.  
+✅ **Version Control & DevOps** – Skilled in **Git, CI/CD, Docker, Kubernetes, Terraform**.  
+✅ **Threat Intelligence & Cyber Risk Analysis** – Identifying and mitigating security threats.
 
 ---
 
@@ -34,87 +34,79 @@ Proven ability to secure systems, perform **vulnerability assessments**, and **m
 
 ### **🔹 Penetration Tester**
 
-📍 SecureTech Solutions, Liverpool | **Jan 2021 – Dec 2023**
+**SecureTech Solutions, Liverpool** | _Jan 2021 – Dec 2023_
 
-- Conducted **penetration testing** on **enterprise networks, cloud infrastructure, and web applications**.
-- Simulated **real-world attack scenarios** to identify vulnerabilities and prevent data breaches.
-- Used **Wireshark** for network traffic analysis and **Burp Suite** for web security testing.
-- Developed **custom exploits** and automation scripts using Python and Bash.
-- Provided **detailed reports** with risk assessments and remediation plans.
-- Ensured compliance with **ISO 27001, GDPR, and industry standards**.
-
-📌 **Key Achievements:**  
-✔ Identified and reported **critical vulnerabilities** in client systems, leading to enhanced security measures.  
-✔ Created an **automated threat detection system**, reducing security risks by 40%.
-
----
+- Conducted **penetration tests** on web applications, networks, and cloud environments.
+- Analysed **network traffic** using Wireshark to detect anomalies and threats.
+- Identified and exploited **security vulnerabilities** using tools like **Burp Suite, Nmap, Metasploit**.
+- Simulated **real-world cyber attacks** to strengthen security postures.
+- Ensured compliance with **ISO 27001, GDPR, and industry security standards**.
 
 ### **🔹 Senior Software Engineer (Security Focus)**
 
-📍 Club L London, Manchester | **Jan 2023 – Present**
+**Club L London, Manchester** | _Jan 2023 – Present_
 
-- Built a **secure backend infrastructure** with **Node.js, MongoDB, and AWS**.
-- Conducted **threat modelling** to identify and mitigate potential attack vectors.
-- Secured API endpoints against **SQL injection, XSS, and CSRF attacks**.
-- Integrated **real-time monitoring tools** to detect and respond to security incidents.
-- Provided **security training** to development teams on **secure coding practices**.
-
-📌 **Key Achievements:**  
-✔ Developed a **zero-trust security model**, reducing attack surfaces across applications.  
-✔ Enhanced **API security**, preventing **unauthorised access** and **data breaches**.
-
----
+- Developed **secure backend systems** using **Node.js and MongoDB**.
+- Implemented **security best practices** to protect against **XSS, SQL injection, and other threats**.
+- Conducted **threat modelling and security risk assessments**.
+- Built **custom API security layers** to prevent unauthorised access.
+- Integrated **real-time performance monitoring** for detecting security anomalies.
 
 ### **🔹 Cyber Security & AI Consultant**
 
-📍 Freelancer.com, Liverpool | **Jan 2020 – Present**
+**Freelancer.com, Liverpool** | _Jan 2020 – Present_
 
-- Built an **AI-driven security system** to detect and block cyber threats.
-- Conducted **digital forensics investigations** using machine learning for **anomaly detection**.
-- Developed **automated security scripts** for **real-time log monitoring**.
-- Assisted organisations in **hardening security configurations** and reducing vulnerabilities.
+- Developed an **AI-driven security system** to block malicious web traffic.
+- Conducted **digital forensics investigations** using Python and machine learning.
+- Created **automated security scripts** to scan and monitor logs for intrusions.
+- Advised clients on **cybersecurity strategies and risk mitigation**.
 
-📌 **Key Achievements:**  
-✔ Built a **malware detection model** that achieved **95% accuracy** in identifying cyber threats.  
-✔ Automated **intrusion detection** with Python, reducing manual analysis time by 60%.
+### **🔹 Software Engineer & Network Security Specialist**
+
+**Tornado, Liverpool** | _Jan 2019 – Dec 2021_
+
+- Designed **custom CRM systems** with **secure authentication & data encryption**.
+- Monitored **network traffic** to identify potential security breaches.
+- Developed **firewalls and intrusion detection systems**.
+- Implemented **CI/CD security measures** to protect code integrity.
 
 ---
 
 ## **🎓 Education & Certifications**
 
-### **🔹 Bachelor of Science (BSc) in Computer Science**
+### **🎓 Bachelor of Science (BSc) in Computer Science**
 
-📍 Liverpool Hope University | **2018 – 2021**  
-🎓 **First-Class Honours** | **Specialised in Cyber Security & Ethical Hacking**  
-📜 **Dissertation:** _Advanced Penetration Testing Techniques for Modern Web Applications_
+**Liverpool Hope University** | _2018 – 2021_  
+🏆 **First-Class Honours** | Specialised in **Cyber Security, Networking, Ethical Hacking**  
+📝 Dissertation: _“Advanced Penetration Testing Techniques for Modern Web Applications”_
 
-### **🔹 Certifications**
+### **📜 Certifications**
 
-✅ **CompTIA Security+ (In Progress)**  
-✅ **Certified Ethical Hacker (CEH) (Planned)**  
-✅ **Offensive Security Certified Professional (OSCP) (Planned)**  
-✅ **AWS Certified Security - Specialty (Planned)**
+- **CompTIA Security+ (In Progress)**
+- **Certified Ethical Hacker (CEH) (Planned)**
+- **Offensive Security Certified Professional (OSCP) (Planned)**
+- **AWS Certified Security – Specialty (Planned)**
 
 ---
 
-## **🚀 Technical Skills**
+## **💻 Technical Skills**
 
-- **Languages**: Python, Bash, Java, JavaScript, Go, Rust, C++
+- **Programming**: Python, Bash, Java, JavaScript, Go, Rust, C++
 - **Security Tools**: Burp Suite, Nmap, Metasploit, John the Ripper, Wireshark, Nessus
-- **Operating Systems**: Windows, macOS, Linux (Debian, Kali, Ubuntu)
-- **Networking**: TCP/IP, VPN, Firewalls, DNS, Packet Analysis
-- **Cloud Security**: AWS, Azure, Google Cloud (IAM, Policies, Security Groups)
-- **DevSecOps**: Docker, Kubernetes, GitLab CI/CD, Ansible, Terraform
+- **Operating Systems**: Windows, macOS, Linux
+- **Networking**: TCP/IP, VPN, Firewalls, DNS, Network Penetration Testing
+- **Cloud Security**: AWS, Azure, Google Cloud
+- **DevOps & CI/CD**: Docker, Kubernetes, GitLab CI/CD, Ansible, Terraform
 - **Databases**: MySQL, PostgreSQL, MongoDB, Redis
 
 ---
 
-## **💡 Projects & Additional Experience**
+## **🚀 Projects & Additional Experience**
 
-- 🛡️ Developed a **penetration testing report** outlining vulnerabilities & mitigation strategies: [GitHub Repo](https://github.com/richardwaters9049/pen-report)
-- 🔍 Built **automated network monitoring scripts** for real-time threat detection.
-- 🎯 Participated in **Capture the Flag (CTF) competitions**, strengthening hacking techniques.
-- 📢 Conducted **security awareness training** for development teams on **secure coding practices**.
+- 📌 **Developed a penetration testing report** outlining vulnerabilities and mitigation strategies: [GitHub Repo](https://github.com/richardwaters9049/pen-report)
+- 🛡 **Created automated network monitoring scripts** to detect real-time threats.
+- 🎯 **Active in Capture the Flag (CTF) competitions**, refining penetration testing skills.
+- 📢 **Conducted security awareness training** for software developers on secure coding practices.
 
 ---
 
