@@ -2,8 +2,8 @@
 
 **Cyber Security Specialist & Penetration Tester**  
 Liverpool, L4 6TZ  
-📧 richardwaters866@gmail.com | 📞 +44 07922 288176  
-💻 [GitHub](https://github.com/richardwaters9049) | 🔗 [LinkedIn](#)
+📧 richardwaters866@gmail.com
+💻 [GitHub](https://github.com/richardwaters9049)
 
 ---
 
