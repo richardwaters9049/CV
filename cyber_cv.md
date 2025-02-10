@@ -1,7 +1,5 @@
 ## **Richard Waters**
 
----
-
 ### **Contact Information**
 
 📍 Liverpool, UK  
