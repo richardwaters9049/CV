@@ -75,9 +75,11 @@ Extensive knowledge of **Windows, macOS, and Linux** environments, coupled with 
 
 ### **⚛️ Bachelor of Science (BSc) in Computer Science**
 
-**Liverpool Hope University** | _2018 – 2021_  
-🏆 **First-Class Honours** | Specialised in **Cyber Security, Networking, Ethical Hacking**  
-📝 Dissertation: _“Advanced Penetration Testing Techniques for Modern Web Applications”_
+**Liverpool Hope University** | _2018 – 2021_
+
+🏆 **First-Class Honours** | Specialised in **Cyber Security, Networking, Ethical Hacking**
+
+📝 Dissertation: _“Beyond the Fingerprint: Merging Humans with Machines”_
 
 ### **📜 Certifications**
 
