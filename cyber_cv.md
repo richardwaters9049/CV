@@ -1,11 +1,8 @@
----
 **Richard Waters**
 **Cyber Security Professional**  
 📍 Liverpool, L4 6TZ  
 📧 [richardwaters866@gmail.com](mailto:richardwaters866@gmail.com) | 📞 +44 7922 288176  
-🐙 [GitHub](https://github.com/richardwaters9049)  
-
----
+🐙 [GitHub](https://github.com/richardwaters9049)
 
 ## **👨‍💻 Professional Summary**
 
