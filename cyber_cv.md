@@ -82,7 +82,7 @@ Extensive knowledge of **Windows, macOS, and Linux** environments, coupled with 
 ### **📜 Certifications**
 
 - **CompTIA Security+ (In Progress)**
-- **Certified Ethical Hacker (CEH) (Planned)**
+- **Certified Ethical Hacker (CEH) (In Progress)**
 - **Offensive Security Certified Professional (OSCP) (Planned)**
 - **AWS Certified Security – Specialty (Planned)**
 
@@ -90,13 +90,18 @@ Extensive knowledge of **Windows, macOS, and Linux** environments, coupled with 
 
 ## **💻 Technical Skills**
 
-- **Programming**: Python, Bash, Java, JavaScript, Go, Rust, C++
+- **Programming**: Python, Bash, Java, JavaScript, Go, Rust, C++, C#, Ruby, Swift, PHP, Kotlin
 - **Security Tools**: Burp Suite, Nmap, Metasploit, John the Ripper, Wireshark, Nessus
 - **Operating Systems**: Windows, macOS, Linux
 - **Networking**: TCP/IP, VPN, Firewalls, DNS, Network Penetration Testing
 - **Cloud Security**: AWS, Azure, Google Cloud
 - **DevOps & CI/CD**: Docker, Kubernetes, GitLab CI/CD, Ansible, Terraform
-- **Databases**: MySQL, PostgreSQL, MongoDB, Redis
+- **Databases**: MySQL, PostgreSQL, MongoDB, Redis, Firebase, PostgreSQL, PHPMyAdmin, SQLite
+- **Version Control**: Git, GitHub, GitLab, Bitbucket
+- **Threat Intelligence**: Threat Modeling, Cyber Risk Analysis, Vulnerability Assessment
+- **Incident Response**: Digital Forensics, Threat Hunting, Incident Response Planning
+- **Regulatory Compliance**: ISO 27001, GDPR, PCI DSS, HIPAA, NIST Cybersecurity Framework
+- **Soft Skills**: Communication, Problem Solving, Teamwork, Adaptability, Time Management
 
 ---
 
