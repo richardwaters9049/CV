@@ -26,13 +26,6 @@ Experienced **Software Engineer** with a strong background in **frontend develop
 
 ### 🛍️ Frontend Developer
 
-**Velstar, Liverpool** | _Jan 2022 – Dec 2022_
-
-- Developed custom **Shopify themes** for leading retail brands, focusing on UX and responsive design
-- Built performant storefronts using HTML, CSS, JavaScript, and Liquid
-- Collaborated with designers and clients to deliver conversion-driven eCommerce solutions
-- Integrated APIs and third-party apps to extend store functionality
-
 ### 🔐 Senior Software Engineer (Security Focus)
 
 **Club L London, Manchester** | _Jan 2023 – Present_
@@ -40,6 +33,13 @@ Experienced **Software Engineer** with a strong background in **frontend develop
 - Built secure backend systems using Node.js and MongoDB
 - Implemented protections against XSS, SQL injection, and API misuse
 - Led threat modelling and integrated real-time performance monitoring
+
+**Velstar, Liverpool** | _Jan 2022 – Dec 2022_
+
+- Developed custom **Shopify themes** for leading retail brands, focusing on UX and responsive design
+- Built performant storefronts using HTML, CSS, JavaScript, and Liquid
+- Collaborated with designers and clients to deliver conversion-driven eCommerce solutions
+- Integrated APIs and third-party apps to extend store functionality
 
 ### 🕵️ Penetration Tester
 
