@@ -24,8 +24,6 @@ Experienced **Software Engineer** with a strong background in **frontend develop
 
 ## 💼 Professional Experience
 
-### 🛍️ Frontend Developer
-
 ### 🔐 Senior Software Engineer (Security Focus)
 
 **Club L London, Manchester** | _Jan 2023 – Present_
@@ -33,6 +31,8 @@ Experienced **Software Engineer** with a strong background in **frontend develop
 - Built secure backend systems using Node.js and MongoDB
 - Implemented protections against XSS, SQL injection, and API misuse
 - Led threat modelling and integrated real-time performance monitoring
+
+### 🛍️ Frontend Developer
 
 **Velstar, Liverpool** | _Jan 2022 – Dec 2022_
 
