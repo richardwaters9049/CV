@@ -1,0 +1,21 @@
+Richard Waters
+Liverpool, UK
+richardwaters866@gmail.com
+https://github.com/richardwaters9049
+10 April 2025
+
+Dear Hiring Manager,
+
+I am writing to express my strong interest in the .NET Developer position at your esteemed global sports company in Liverpool, as advertised. With a solid background in .NET technologies, C#, and Azure development, I am excited by the opportunity to contribute to your groundbreaking work in sports science and high-performance data analytics.
+
+Over the past 10 years, I have honed my skills in full stack development, specializing in ASP.NET Core, MVC, and Azure-based solutions. I thrive in Agile environments and am passionate about building clean, scalable web applications. I am especially enthusiastic about the chance to work on Greenfield projects that directly impact athlete performance—a cause I find both meaningful and motivating.
+
+Your commitment to innovation, paired with your impressive expansion into sports science and analytics, aligns perfectly with my technical interests and long-term career goals. I am eager to bring my development expertise to your team and contribute to building software that enables elite athletes to push their limits.
+
+The opportunity to work with modern technologies like .NET 9, Blazor, and EF Core, while also receiving dedicated training and support, is highly appealing. I am confident that my technical foundation and collaborative mindset will allow me to make an immediate and lasting impact.
+
+Thank you for considering my application. I would welcome the opportunity to further discuss how I can contribute to your team and help drive success in this exciting new chapter for your company.
+
+
+Kind regards,
+Richard Waters

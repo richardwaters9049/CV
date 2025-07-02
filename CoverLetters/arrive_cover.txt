@@ -1,0 +1,20 @@
+Richard Waters
+Liverpool, UK
+richardwaters866@gmail.com
+https://github.com/richardwaters9049
+23 June 2025
+
+Dear Hiring Manager,
+
+I am writing to express my interest in the Senior Backend Engineer position at Arrive, as advertised. With over a decade of experience in backend development and a strong foundation in PHP, Laravel, and cloud-based technologies, I am eager to contribute to your mission of transforming urban mobility and making cities more liveable.
+
+Throughout my career, I have led the design and development of scalable backend services, particularly within microservice-based architectures. My recent work has focused on Laravel (v12), MongoDB performance optimisation, and deploying containerised services using Docker and AWS infrastructure, including ECS and SQS. I am passionate about test-driven development and building robust CI/CD pipelines that ensure code quality and reliability across fast-moving teams.
+
+Arrive’s values of curiosity, focus, and collaboration resonate strongly with me. I am especially drawn to your innovative work at the intersection of technology and sustainability, and your commitment to smarter urban travel solutions. The opportunity to work remotely as part of a forward-thinking, global team is particularly exciting.
+
+I am confident that my technical expertise, combined with my collaborative mindset and proactive approach to problem-solving, would make me a strong asset to your engineering team.
+
+Thank you for considering my application. I would welcome the opportunity to discuss how my background and passion for backend engineering can support Arrive’s vision for the future of mobility.
+
+Kind regards,
+Richard Waters
