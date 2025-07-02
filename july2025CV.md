@@ -12,7 +12,7 @@ Software developer with a First-Class Honours degree in Computer Science and 10+
 
 > **“The code is not the problem — the teaching is the problem.”**
 
-I quickly adapt to any programming language or environment, fix issues by reading the machine’s feedback, and constantly seek new challenges, now focusing on penetration testing and cloud security certifications. If you know code, you can code in anything.
+If you know code, you can code in anything. With this in mind, I believe we can adapt to any programming language or environment, fix issues by reading the machine’s feedback, and constantly seek new challenges. I am currently focusing on penetration testing and cloud security certifications and building innovative projects.
 
 ---
 
