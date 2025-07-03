@@ -30,7 +30,7 @@ If you know code, you can code in anything. With this in mind, I believe we can 
 
 ---
 
-## 🚀 Selected Projects
+## 🚀 Projects
 
 ### LumaScope
 
