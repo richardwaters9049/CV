@@ -4,7 +4,7 @@
 📧 [richardwaters866@gmail.com](mailto:richardwaters866@gmail.com)
 🔗 GitHub: [richardwaters9049](https://github.com/richardwaters9049)
 
-\newpage
+---
 
 ## 👨‍💻 Profile
 
@@ -12,7 +12,7 @@
 
 I have worked with major retailers including **GAP, Nike, French Connection, Swan**, and high-growth e-commerce brands. My greatest impact comes from **solving the organisational and structural problems that slow teams down** — not just writing code.
 
-\newpage
+---
 
 ## 💡 Engineering Philosophy
 
@@ -31,7 +31,7 @@ Each of these can slow down teams significantly.
 Code, deployment pipelines, and testing strategies can be learned quickly.
 **Teaching, mentoring, and designing teams to operate consistently at scale** is the real challenge.
 
-\newpage
+---
 
 ## 🛠️ Core Technical Skills
 
@@ -63,7 +63,7 @@ PostgreSQL, MongoDB, MySQL, Firebase, Neo4j, Prisma
 
 System design, mentoring, onboarding strategies, documentation, code reviews, automated testing, secure development practices, agile delivery, cross-team collaboration
 
-\newpage
+---
 
 ## 📚 Projects
 
@@ -83,7 +83,7 @@ _Python, Next.js_
 
 - Interactive honeypot-style game teaching security vulnerabilities.
 - Players answer progressively harder questions; mistakes simulate system compromise.
-- Used as a training tool for OWASP Top 10 vulnerabilities and defensive thinking.
+- Training tool for OWASP Top 10 vulnerabilities and defensive thinking.
 
 ### PassCracked — Password Security Demonstrator
 
@@ -93,7 +93,7 @@ _Next.js, Python_
 - Displays recovered plaintext passwords in near real-time.
 - Clearly communicates password risk, hashing weaknesses, and best practices.
 
-\newpage
+---
 
 ## 💼 Work Experience
 
@@ -135,14 +135,14 @@ _Next.js, Python_
 - Built WordPress plugins and bespoke systems for councils and charities.
 - Developed CRM and rent-management tools, automating workflows.
 
-\newpage
+---
 
 ## 🎓 Education
 
 **BSc (Hons) Computer Science – First Class Honours**
 Liverpool Hope University – 2020
 
-\newpage
+---
 
 ## 🧩 Extras
 
