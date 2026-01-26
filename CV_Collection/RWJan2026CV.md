@@ -33,29 +33,31 @@ Code, deployment pipelines, and testing strategies can be learned quickly. **Tea
 
 ## 🛠️ Core Technical Skills
 
-**Programming Languages:** Python, JavaScript, PHP, Java, Kotlin, Go, Rust, C++, SQL, Bash
+### **Programming Languages**
 
-### Backend & Frontend
+Python, JavaScript, PHP, Java, Kotlin, Go, Rust, C++, SQL, Bash
+
+### **Backend & Frontend**
 
 Node.js, Express, Django, Flask, Laravel, React, Next.js, Tailwind, REST & GraphQL APIs
 
-### AI & ML
+### **AI & ML**
 
 TensorFlow, PyTorch, scikit-learn, OpenCV, Hugging Face, Pandas, NumPy, data preprocessing, model evaluation, inference pipelines
 
-### Cybersecurity
+### **Cybersecurity**
 
 Nmap, Burp Suite, Wireshark, Metasploit, John the Ripper, OWASP ZAP, Nikto, Hydra, SQLMap, custom Python tooling, red teaming
 
-### Cloud & DevOps
+### **Cloud & DevOps**
 
 Azure, AWS, Google Cloud, Docker, Kubernetes, GitHub Actions, CI/CD, Infrastructure as Code, Vercel, Bitbucket
 
-### Databases
+### **Databases**
 
 PostgreSQL, MongoDB, MySQL, Firebase, Neo4j, Prisma
 
-### Engineering & Team Practices
+### **Engineering & Team Practices**
 
 System design, mentoring, onboarding strategies, documentation, code reviews, automated testing, secure development practices, agile delivery, cross-team collaboration
 
