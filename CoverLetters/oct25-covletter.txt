@@ -1,0 +1,15 @@
+Richard Waters
+
+richardwaters866@gmail.com
+
+27/08/2025
+
+Dear Hiring Manager,
+
+I am applying for the DevOps Engineer role at PayPoint. With a First-Class Honours degree in Computer Science and ten years’ software development experience, I specialise in CI/CD pipelines, cloud services, containerisation, and Infrastructure as Code. I have a strong track record in automation, monitoring, and secure, compliant deployments, and I thrive collaborating with teams to deliver reliable, efficient software.
+
+I would be delighted to bring my expertise to support PayPoint’s DevOps initiatives.
+
+Yours sincerely,
+
+Richard Waters.
