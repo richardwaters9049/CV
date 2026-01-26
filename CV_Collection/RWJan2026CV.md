@@ -33,19 +33,33 @@ Code, deployment pipelines, and testing strategies can be learned quickly. **Tea
 
 ## 🛠️ Core Technical Skills
 
-### **Programming Languages**: Python, JavaScript, PHP, Java, Kotlin, Go, Rust, C++, SQL, Bash
+### Programming Languages
 
-### **Backend & Frontend**: Node.js, Express, Django, Flask, Laravel, React, Next.js, Tailwind, REST & GraphQL APIs
+Python, JavaScript, PHP, Java, Kotlin, Go, Rust, C++, SQL, Bash
 
-### **AI & ML**: TensorFlow, PyTorch, scikit-learn, OpenCV, Hugging Face, Pandas, NumPy, data preprocessing, model evaluation, inference pipelines
+### Backend & Frontend
 
-### **Cybersecurity**: Nmap, Burp Suite, Wireshark, Metasploit, John the Ripper, OWASP ZAP, Nikto, Hydra, SQLMap, custom Python tooling, red teaming
+Node.js, Express, Django, Flask, Laravel, React, Next.js, Tailwind, REST & GraphQL APIs
 
-### **Cloud & DevOps**: Azure, AWS, Google Cloud, Docker, Kubernetes, GitHub Actions, CI/CD, Infrastructure as Code, Vercel, Bitbucket
+### AI & ML
 
-### **Databases**: PostgreSQL, MongoDB, MySQL, Firebase, Neo4j, Prisma
+TensorFlow, PyTorch, scikit-learn, OpenCV, Hugging Face, Pandas, NumPy, data preprocessing, model evaluation, inference pipelines
 
-### **Engineering & Team Practices**: System design, mentoring, onboarding strategies, documentation, code reviews, automated testing, secure development practices, agile delivery, cross-team collaboration
+### Cybersecurity
+
+Nmap, Burp Suite, Wireshark, Metasploit, John the Ripper, OWASP ZAP, Nikto, Hydra, SQLMap, custom Python tooling, red teaming
+
+### Cloud & DevOps
+
+Azure, AWS, Google Cloud, Docker, Kubernetes, GitHub Actions, CI/CD, Infrastructure as Code, Vercel, Bitbucket
+
+### Databases
+
+PostgreSQL, MongoDB, MySQL, Firebase, Neo4j, Prisma
+
+### Engineering & Team Practices
+
+System design, mentoring, onboarding strategies, documentation, code reviews, automated testing, secure development practices, agile delivery, cross-team collaboration
 
 ---
 
