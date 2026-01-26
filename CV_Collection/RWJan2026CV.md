@@ -8,7 +8,7 @@
 
 ## 👨‍💻 Profile
 
-**Senior Software Developer** with over **10 years’ experience** delivering scalable, maintainable systems across retail, education, healthcare, and cybersecurity. I specialise in **building high-performing development teams**, designing resilient architectures, and improving delivery through clear communication, consistency, and strong engineering culture.
+**Senior Software Developer** with over **10 years' experience** delivering scalable, maintainable systems across retail, education, healthcare, and cybersecurity. I specialise in **building high-performing development teams**, designing resilient architectures, and improving delivery through clear communication, consistency, and strong engineering culture.
 
 I have worked with major retailers including **GAP, Nike, French Connection, Swan**, and high-growth e-commerce brands. My greatest impact comes from **solving the organisational and structural problems that slow teams down** — not just writing code.
 
@@ -33,33 +33,19 @@ Code, deployment pipelines, and testing strategies can be learned quickly. **Tea
 
 ## 🛠️ Core Technical Skills
 
-### **Programming Languages**
+### **Programming Languages**: Python, JavaScript, PHP, Java, Kotlin, Go, Rust, C++, SQL, Bash
 
-Python, JavaScript, PHP, Java, Kotlin, Go, Rust, C++, SQL, Bash
+### **Backend & Frontend**: Node.js, Express, Django, Flask, Laravel, React, Next.js, Tailwind, REST & GraphQL APIs
 
-### **Backend & Frontend**
+### **AI & ML**: TensorFlow, PyTorch, scikit-learn, OpenCV, Hugging Face, Pandas, NumPy, data preprocessing, model evaluation, inference pipelines
 
-Node.js, Express, Django, Flask, Laravel, React, Next.js, Tailwind, REST & GraphQL APIs
+### **Cybersecurity**: Nmap, Burp Suite, Wireshark, Metasploit, John the Ripper, OWASP ZAP, Nikto, Hydra, SQLMap, custom Python tooling, red teaming
 
-### **AI & ML**
+### **Cloud & DevOps**: Azure, AWS, Google Cloud, Docker, Kubernetes, GitHub Actions, CI/CD, Infrastructure as Code, Vercel, Bitbucket
 
-TensorFlow, PyTorch, scikit-learn, OpenCV, Hugging Face, Pandas, NumPy, data preprocessing, model evaluation, inference pipelines
+### **Databases**: PostgreSQL, MongoDB, MySQL, Firebase, Neo4j, Prisma
 
-### **Cybersecurity**
-
-Nmap, Burp Suite, Wireshark, Metasploit, John the Ripper, OWASP ZAP, Nikto, Hydra, SQLMap, custom Python tooling, red teaming
-
-### **Cloud & DevOps**
-
-Azure, AWS, Google Cloud, Docker, Kubernetes, GitHub Actions, CI/CD, Infrastructure as Code, Vercel, Bitbucket
-
-### **Databases**
-
-PostgreSQL, MongoDB, MySQL, Firebase, Neo4j, Prisma
-
-### **Engineering & Team Practices**
-
-System design, mentoring, onboarding strategies, documentation, code reviews, automated testing, secure development practices, agile delivery, cross-team collaboration
+### **Engineering & Team Practices**: System design, mentoring, onboarding strategies, documentation, code reviews, automated testing, secure development practices, agile delivery, cross-team collaboration
 
 ---
 
