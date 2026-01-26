@@ -1,7 +1,7 @@
 # Richard Waters
 
-📍 Liverpool, UK  
-📧 [richardwaters866@gmail.com](mailto:richardwaters866@gmail.com)  
+📍 Liverpool, UK
+📧 [richardwaters866@gmail.com](mailto:richardwaters866@gmail.com)
 🔗 GitHub: [richardwaters9049](https://github.com/richardwaters9049)
 
 ---
@@ -27,7 +27,7 @@ Languages, frameworks, and platforms change constantly. Productivity is limited 
 - Lack of ownership and clear technical direction
 - Fragile delivery, testing, and release processes
 
-Code, deployment pipelines, and testing strategies can be learned quickly. **Teaching, mentoring, and designing teams to operate consistently at scale is the real challenge** — and where I focus my experience.
+Each of these can slow down teams significantly. Code, deployment pipelines, and testing strategies can be learned quickly, but **teaching, mentoring, and designing teams to operate consistently at scale** is the real challenge.
 
 ---
 
@@ -67,31 +67,29 @@ System design, mentoring, onboarding strategies, documentation, code reviews, au
 
 ### LukaScope — AI-Assisted Blood Sample Analysis Platform
 
-> Next.js, React, TypeScript, TailwindCSS, PostgreSQL, AI Computer Vision
+_Next.js, React, TypeScript, TailwindCSS, PostgreSQL, AI Computer Vision_
 
-- Full-stack web application for analysing blood smear samples using AI-assisted computer vision.
-- Secure, role-based workflow for uploading images and generating detailed diagnostic reports with classification confidence, cell count statistics, annotated images, and AI explainability visualisations.
-- Modern frontend with responsive dashboards, animated analysis states, and clean scientific UI/UX.
-- Backend with PostgreSQL for metadata and object storage for images, ensuring scalability and performance.
-- Clean data model linking users, samples, and explainability outputs.
-- Architected to support AI training pipelines, separating inference, training, authentication, and data access layers.
-- Focused on secure authentication, clean API boundaries, and production-ready design patterns.
+- Full-stack application for analysing blood smear samples with AI-assisted computer vision.
+- Secure, role-based workflow for uploading images and generating diagnostic reports.
+- Clean frontend with responsive dashboards and scientific UI/UX.
+- Backend with PostgreSQL and object storage for scalability and performance.
+- Supports AI training pipelines with separate inference, training, authentication, and data access layers.
 
 ### Red Room — Cybersecurity Honeypot Game
 
-> Python, Next.js
+_Python, Next.js_
 
-- Interactive honeypot-style game teaching users about security vulnerabilities.
-- Players answer progressively harder security questions to escape; mistakes simulate system compromise.
-- Used as a training tool for OWASP Top 10 vulnerabilities and defensive thinking.
+- Interactive honeypot-style game teaching security vulnerabilities.
+- Players answer progressively harder questions; mistakes simulate system compromise.
+- Training tool for OWASP Top 10 vulnerabilities and defensive thinking.
 
 ### PassCracked — Password Security Demonstrator
 
-> Next.js, Python
+_Next.js, Python_
 
-- High-performance app that hashes user passwords and demonstrates cracking speeds.
-- Displays recovered plaintext passwords in near real-time using dictionary and brute-force attacks.
-- Clearly communicates password risk, hashing weaknesses, and best practices.
+- High-performance app demonstrating password cracking speeds.
+- Displays recovered plaintext passwords in near real-time.
+- Communicates password risk, hashing weaknesses, and best practices.
 
 ---
 
@@ -99,7 +97,7 @@ System design, mentoring, onboarding strategies, documentation, code reviews, au
 
 ### Senior Software Developer
 
-#### Club L London | Manchester | 2022 – 2025
+**Club L London | Manchester | 2022 – 2025**
 
 - Maintained scalable Node.js and MongoDB systems for high-volume Shopify automation.
 - Introduced **consistent coding standards and CI/CD pipelines** to reduce deployment friction.
@@ -108,7 +106,7 @@ System design, mentoring, onboarding strategies, documentation, code reviews, au
 
 ### Cybersecurity Engineer
 
-#### ShadowFox Security | Remote | 2021 – 2022
+**ShadowFox Security | Remote | 2021 – 2022**
 
 - Led penetration testing and red-team engagements for commercial clients.
 - Built automated tooling and repeatable workflows.
@@ -116,21 +114,21 @@ System design, mentoring, onboarding strategies, documentation, code reviews, au
 
 ### Software Developer
 
-#### Liverpool Hope University | Liverpool | 2020
+**Liverpool Hope University | Liverpool | 2020**
 
 - Built a secure PHP system for budget and grant applications.
 - Focused on usability, data integrity, and maintainability.
 
 ### Frontend Developer
 
-#### Velstar | Liverpool | 2019 – 2020
+**Velstar | Liverpool | 2019 – 2020**
 
 - Delivered custom Shopify themes and tools for **French Connection and Castore**.
 - Collaborated closely with designers, account managers, and clients.
 
 ### Full-Stack Developer
 
-#### Tornado | Liverpool | 2017 – 2019
+**Tornado | Liverpool | 2017 – 2019**
 
 - Built WordPress plugins and bespoke systems for councils and charities.
 - Developed CRM and rent-management tools, automating workflows.
@@ -139,7 +137,7 @@ System design, mentoring, onboarding strategies, documentation, code reviews, au
 
 ## 🎓 Education
 
-**BSc (Hons) Computer Science – First Class Honours**  
+**BSc (Hons) Computer Science – First Class Honours**
 Liverpool Hope University – 2020
 
 ---
