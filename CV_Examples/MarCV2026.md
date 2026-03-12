@@ -95,49 +95,13 @@ Useful for security education and training.
 
 ## Technical Skills
 
-Languages
-
-Python  
-JavaScript  
-Go  
-Rust  
-Java  
-PHP  
-C++  
-SQL  
-Bash
-
-Frameworks
-
-Node.js  
-Django  
-Flask  
-React  
-Next.js  
-Tailwind
-
-AI / Machine Learning
-
-TensorFlow  
-PyTorch  
-OpenCV  
-scikit-learn
-
-Cloud / DevOps
-
-Docker  
-Kubernetes  
-CI/CD pipelines  
-AWS  
-Azure  
-Google Cloud
-
-Databases
-
-PostgreSQL  
-MongoDB  
-MySQL  
-Neo4j
+| Area | Skills |
+| --- | --- |
+| Languages | Python, JavaScript, Go, Rust, Java, PHP, C++, SQL, Bash |
+| Frameworks | Node.js, Django, Flask, React, Next.js, Tailwind |
+| AI / Machine Learning | TensorFlow, PyTorch, OpenCV, scikit-learn |
+| Cloud / DevOps | Docker, Kubernetes, CI/CD pipelines, AWS, Azure, Google Cloud |
+| Databases | PostgreSQL, MongoDB, MySQL, Neo4j |
 
 ---
 
