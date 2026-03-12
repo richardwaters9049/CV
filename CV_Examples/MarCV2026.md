@@ -10,7 +10,9 @@ GitHub: https://github.com/richardwaters9049
 
 ## About Me
 
-I'm a software engineer with over 10 years of experience building scalable systems across retail, research, and cybersecurity environments.
+Hello, I’m Richy — an AI / cybersecurity focused software engineer based in Liverpool, UK. I build systems that think, defend, and scale: from backend platforms and security tooling to applied machine learning and computer vision.
+
+With a First-Class Honours degree in Computer Science and over a decade in software engineering, I’ve developed AI models for medical imaging (including leukaemia detection), created honeypots and security research tooling to study attackers, and delivered secure, scalable platforms for retail brands.
 
 My work focuses on:
 
@@ -20,7 +22,7 @@ My work focuses on:
 - Robotics experimentation
 - developer infrastructure and automation
 
-I enjoy building systems that explore the boundaries between software engineering, security research, and applied machine learning.
+I love blending creativity with computation — practical, ethical, and sometimes a little fun. Feel free to reach out (bonus points if it’s not about Java).
 
 ---
 
