@@ -1,0 +1,13 @@
+Dear Hiring Manager,
+
+I am writing to apply for the DevOps Engineer position at Atos Group. I am a software developer from Liverpool with over 10 years of industry experience and hold a First Class Honours degree in Computer Science.
+
+Throughout my career I have worked with both universities and established retail brands, delivering reliable and scalable systems while collaborating closely with cross-functional teams. My experience includes working with modern development practices, CI/CD pipelines, cloud platforms, and DevOps methodologies to improve delivery processes and system reliability.
+
+I am particularly interested in the opportunity to contribute to Atos Group’s work in cloud and digital transformation, and I would welcome the chance to bring my experience and problem-solving approach to your team.
+
+Thank you for your time and consideration. I look forward to hearing from you.
+
+Yours faithfully,
+Richard Waters
+
